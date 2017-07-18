@@ -1,0 +1,30 @@
+<footer style="background-color: black;">
+  <div class="container" id="contact">
+    <div class="row">
+      <div class="col-lg-10 col-lg-offset-1 text-center">
+        <h4><strong>{{ site.owner }}</strong>
+        </h4>
+        <p>
+          {% for address in site.address %}
+          {{ address.line }}<br>
+          {% endfor %}
+        </p>
+        <br>
+        <ul class="list-inline">
+          <li>
+            <a href="mailto:{{ site.email }}"><i class="fa fa-envelope-o fa-fw fa-3x"></i>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.wechat.com/{{ site.wechat_username }}"><i class="fa fa-weixin fa-fw fa-3x"></i></a>
+          </li>
+          <li>
+            <a href="https://github.com/{{ site.github_username }}"><i class="fa fa-github fa-fw fa-3x"></i></a>
+          </li>
+        </ul>
+        <hr class="small">
+        <p class="text-muted">Copyright &copy; {{ site.copyright }} 20{{ site.time | date: '%y' }}</p>
+      </div>
+    </div>
+  </div>
+</footer>
