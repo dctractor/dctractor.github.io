@@ -4,7 +4,7 @@ title: Groupround
 sitemap:
   priority: 1.0
 ---
-<h1 style="text-align: center;">2017年小组赛</h1>
+<h1 style="text-align: center;">2017年小组赛（第一轮）</h1>
 <h3 style="text-align: center;">
 <form style="text-align: center;" action="" method="POST">
   <input type="radio" name="group" id="groupA" value="A" onClick="groupck();" >
