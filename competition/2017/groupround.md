@@ -6,7 +6,7 @@ sitemap:
 ---
 <h1 style="text-align: center;">2017年小组赛</h1>
 <h3 style="text-align: center;">
-<form style="align: center;" action="" method="POST">
+<form style="text-align: center;" action="" method="POST">
   <input type="radio" name="group" id="groupA" value="A" onClick="groupck();" >
   <label>A组</label>
   <input type="radio" name="group" id="groupB" value="B" onClick="groupck();" >
