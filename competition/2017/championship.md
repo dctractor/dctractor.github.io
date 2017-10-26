@@ -1,4 +1,7 @@
-
+---
+section-type: 2017
+title: Championship
+---
 <h1 style="text-align: center;">2017年淘汰赛（第三轮）</h1>
 
 <style>
