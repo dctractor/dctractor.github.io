@@ -40,39 +40,39 @@ svg {
 
 <script>
 var treeCham =   [{"leftTree": {
-                  "name": "清华索赔专家一队（B组 -》甲组）",
+                  "name": "清华索赔专家一队",
                   "value": "7",
                   "level": "navy",
                   "children": [
                               {
-                              "name": "清华索赔专家一队（B组 -》甲组）",
+                              "name": "清华索赔专家一队",
                               "value": "14",
                               "level": "navy",
                               "children": [
                                           {
-                                          "name": "清华索赔专家一队（B组 -》甲组）",
+                                          "name": "清华索赔专家一队",
                                           "value": "7",
                                           "level": "navy"
                                           },
                                           {
-                                          "name": "湖北六队（B组 -》 乙组）",
+                                          "name": "湖北六队",
                                           "value": "7",
                                           "level": "pink"
                                           }
                                           ]
                                 },
                                {
-                               "name": "喜马拉雅生物二队（A组 -》丁组）",
+                               "name": "喜马拉雅生物二队",
                                "value": "3",
                                "level": "purple",
                                "children": [
                                            {
-                                           "name": "喜马拉雅生物二队（A组 -》丁组）",
+                                           "name": "喜马拉雅生物二队",
                                           "value": "8",
                                           "level": "purple"
                                            },
                                            {
-                                           "name": "喜马拉雅生物一队（B组 -》丙组）",
+                                           "name": "喜马拉雅生物一队",
                                            "value": "5",
                                            "level": "brown"
                                           }
@@ -81,39 +81,39 @@ var treeCham =   [{"leftTree": {
                                 ]
                     }},
                  {"rightTree": {
-                  "name": "盛达地产队（C组 -》乙组）",
+                  "name": "盛达地产队",
                   "value": "10",
                   "level": "red",
                   "children": [
                               {
-                              "name": "盛达地产队（C组 -》乙组）",
+                              "name": "盛达地产队",
                               "value": "14",
                               "level": "red",
                               "children": [
                                           {
-                                          "name": "盛达地产队（C组 -》乙组）",
+                                          "name": "盛达地产队",
                                           "value": "9",
                                           "level": "red"
                                           },
                                           {
-                                          "name": "华山队（A组 -》甲组）",
+                                          "name": "华山队",
                                           "value": "8",
                                           "level": "green"
                                           }
                                           ]
                                 },
                                {
-                               "name": "清华索赔专家二队（C组 -》丁组）",
+                               "name": "清华索赔专家二队",
                                "value": "4",
                                "level": "steelblue",
                                "children": [
                                            {
-                                           "name": "川渝二队（C组 -》丙组）",
+                                           "name": "川渝二队",
                                           "value": "6",
                                           "level": "yellow"
                                            },
                                            {
-                                           "name": "清华索赔专家二队（C组 -》丁组）",
+                                           "name": "清华索赔专家二队",
                                            "value": "11",
                                            "level": "steelblue"
                                           }
