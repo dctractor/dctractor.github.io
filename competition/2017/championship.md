@@ -129,9 +129,9 @@ var width = 960 - margin.left - margin.right;
 var height = 1000 - margin.top - margin.bottom;
     
 var tree = d3.tree()
-	.size([height -400, width - 500]);
+	.size([height -400, width - 600]);
 var treel = d3.tree()
-	.size([height -400, width - 900]);
+	.size([height -400, width - 800]);
     
 var nodes = d3.hierarchy(treeCham[1].rightTree, function(d) {
     return d.children;
